@@ -1,6 +1,6 @@
 void main() {
   // Define a string with runes
-  String runesString = "Runes in Dart: \u{1F600} \u{1F64B} \u{1F680}";
+  String runesString = "Runes in Dart: \u{1F601} \u{1F64C} \u{1F681} \u{1F47C}";
 
   // Print the string
   print(runesString);
